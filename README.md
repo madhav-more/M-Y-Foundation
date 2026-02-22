@@ -73,7 +73,7 @@ We enable individuals and organizations to grow, adapt, and thrive.
 Follow these steps to run the project locally:
 
 1️⃣ Clone the Repository
-git clone 
+git clone https://github.com/madhav-more/M-Y-Foundation.git
 2️⃣ Navigate to Project Directory
 cd your-repo-name
 3️⃣ Install Dependencies
