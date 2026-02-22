@@ -1,16 +1,85 @@
-# React + Vite
+# 🌱 M & Y Foundation – React Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**IGNITING POTENTIAL.  
+ENABLING PROGRESS.**
 
-Currently, two official plugins are available:
+M & Y Foundation is committed to bridging the gap between **education and employment** across the heart of India.  
+This React frontend project represents our digital presence and mission to empower India’s untapped talent.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This is a simple and elegant **React frontend application** built to showcase the vision, journey, and impact of **M & Y Foundation**.
 
-## Expanding the ESLint configuration
+The platform highlights:
+- Our mission and values
+- Our journey and milestones
+- The scale of our impact across India
+- Opportunities for individuals to contribute and support our cause
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌟 Our Mission
+
+**Empowering India’s Untapped Talent**
+
+M & Y Foundation is a dedicated organization focused on empowering **students and professionals**, especially in **rural and semi-urban areas**. We strive to close the gap between academic education and real-world employment opportunities.
+
+Through:
+- Free training programs
+- Seminars and workshops
+- Career guidance initiatives
+- Management and employee development programs
+
+We enable individuals and organizations to grow, adapt, and thrive.
+
+---
+
+## 📊 Our Impact
+
+- **50,000+** Students Empowered  
+- **200+** Rural Colleges Reached  
+- **1,200+** Seminars Conducted  
+- **9+ Years** of Continuous Impact  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **Styling:** CSS / Tailwind CSS (as applicable)  
+- **Build Tool:** Vite / Create React App  
+- **Package Manager:** npm / yarn  
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── styles/
+│   └── App.jsx
+├── public/
+├── package.json
+└── README.md
+
+
+⚙️ Getting Started
+
+Follow these steps to run the project locally:
+
+1️⃣ Clone the Repository
+git clone 
+2️⃣ Navigate to Project Directory
+cd your-repo-name
+3️⃣ Install Dependencies
+npm install
+4️⃣ Start the Development Server
+npm run dev
+
+The app will be available at:
+👉 http://localhost:5173
